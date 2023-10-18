@@ -4,7 +4,7 @@
 
 Dashboard-1 https://public.tableau.com/views/Dashboard1_16973606446080/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-Dasgboard-2 https://public.tableau.com/views/Dashboard1_16973606446080/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
+Dashboard-2 https://public.tableau.com/views/Dashboard1_16973606446080/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Dashboard-3 https://public.tableau.com/views/Dashboard1_16973606446080/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link
 
